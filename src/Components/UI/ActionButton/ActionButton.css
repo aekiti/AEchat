@@ -1,0 +1,19 @@
+.ActionButton{
+    width:60px;
+    height: 60px;
+    background:#fa0758;
+    border-radius: 30px;
+    position: fixed;
+    top:85%;
+    left:80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.actionplus{
+    color:white;
+    margin:0px;
+    font-size:50px;
+}

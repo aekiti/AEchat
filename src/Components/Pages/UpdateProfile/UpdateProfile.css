@@ -1,0 +1,37 @@
+.UpdateProfile{
+    margin-top: 100px;
+}
+.UPInput{
+    margin-top: 20px;
+    animation-name: inputAnimation;
+    animation-duration: 300ms;
+}
+.UPInputi{
+    margin-top: 20px;
+    animation-name: inputAnimation;
+    animation-duration: 500ms;
+}
+.UPInputii{
+    margin-top: 20px;
+    animation-name: inputAnimation;
+    animation-duration: 700ms;
+}
+.UPInputiii{
+    margin-top: 20px;
+    animation-name: inputAnimation;
+    animation-duration: 800ms;
+}
+.UPInputiv{
+    margin-top: 20px;
+    animation-name: inputAnimation;
+    animation-duration: 1000ms;
+}
+@keyframes inputAnimation{
+    0%{
+        transform: translateY(-700px);
+    }
+
+    100%{
+        transform: translateY(0);
+    }
+}

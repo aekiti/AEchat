@@ -1,0 +1,28 @@
+.FriendRequest{
+    width: 70%;
+    border:solid 1px #ccc;
+    height:40px;
+    margin:0 auto;
+    box-shadow: 3px 3px 10px #ccc;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.FRConfirm{
+    height:20px;
+    width:20%;
+    font-size: 8px;
+    background: green;
+    box-shadow: 3px 3px 10px rgb(197, 245, 197);
+}
+.FRReject{
+    height:20px;
+    width:20%;
+    font-size: 8px;
+    box-shadow: 0.5px 0.5px 10px #fcaac5;
+}
+
+.FRKey{
+    font-size: 10px;
+}

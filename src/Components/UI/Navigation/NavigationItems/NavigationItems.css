@@ -1,0 +1,17 @@
+.Item{
+    color:white;
+    width: 80%;
+    margin:0 auto;
+    margin-top: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.Item:hover{
+    border:1px solid white;
+    border-radius:5px;
+}
+.a{
+    text-decoration:none;
+}

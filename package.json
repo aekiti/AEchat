@@ -1,0 +1,49 @@
+{
+  "name": "aechat",
+  "version": "0.1.0",
+  "homepage": "https://aechat.aekiti.com",
+  "description": "A decentralized chat æpp on æternity blockchain",
+  "contributors": [
+    {
+      "name": "Jesulonimi Akingbesote",
+      "email": "lonimi@aekiti.com",
+      "url": "https://twitter.com/nimi_software"
+    },
+    {
+      "name": "Emmanuel Joseph(JET)",
+      "email": "jet@aekiti.com",
+      "url": "https://twitter.com/emmanuelJet_"
+    }
+  ],
+  "repository": {
+    "type": "public",
+    "url": "https://github.com/aekiti/AEchat"
+  },
+  "author": {
+    "name": "æternity ekiti(ækiti)",
+    "email": "contact@aekiti.com",
+    "url": "https://aekiti.com"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "readme": "https://github.com/aekiti/AEchat/blob/master/README.md",
+  "dependencies": {
+    "@aeternity/aepp-sdk": "^6.1.3",
+    "axios": "^0.19.2",
+    "buffer": "^5.5.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

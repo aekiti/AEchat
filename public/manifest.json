@@ -1,0 +1,30 @@
+{
+  "short_name": "AEchat",
+  "name": "æternity chat",
+  "aeternity_network_ids": "ae_uat",
+  "description": "A decentralized chat æpp on æternity blockchain",
+  "category": "utilities",
+  "author": "ækiti",
+  "author_url": "https://aekiti.com",
+  "theme_color": "#f7296e",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
